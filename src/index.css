@@ -1,3 +1,28 @@
+.center{
+  text-align: center;
+  margin-top: 20px;
+  align-items: center;
+}
+
+.buttons{
+  text-align: center;
+  justify-content: center;
+  height: 50px;
+  padding: 10px;
+  margin-top: 20px;
+  
+}
+
+.startbtn{
+  height: 40px;
+  width: 90px;
+  background-color: yellowgreen;
+  font-style:oblique;
+  cursor: pointer;
+  
+  
+}
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
